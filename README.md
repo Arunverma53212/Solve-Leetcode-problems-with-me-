@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
 | ------- |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0110-balanced-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
