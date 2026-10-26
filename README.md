@@ -20,14 +20,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
