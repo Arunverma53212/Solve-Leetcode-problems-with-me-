@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0053-maximum-subarray) |
 | [0735-asteroid-collision](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -42,9 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0124-binary-tree-maximum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
