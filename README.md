@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0735-asteroid-collision](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
