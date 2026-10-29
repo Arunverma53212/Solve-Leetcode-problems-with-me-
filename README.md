@@ -53,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
