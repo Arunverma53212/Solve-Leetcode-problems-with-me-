@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
