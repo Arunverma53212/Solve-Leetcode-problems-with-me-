@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arunverma53212/Solve-Leetcode-problems-with-me-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
