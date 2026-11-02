@@ -1,0 +1,33 @@
+class Solution(object):
+    def tribonacci(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        
+        if n == 0 or n == 1:
+            return n
+        if n == 2:
+            return 1
+        
+        a = 0
+        b = 1
+        c = 1
+        for i in range(3,n + 1):
+            d = a + b + c
+            a = b
+            b = c
+            c = d
+        return d
+
+        
+
+            
+
+
+
+
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
