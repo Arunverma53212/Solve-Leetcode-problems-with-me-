@@ -1,40 +1,29 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def removeNthFromEnd(self, head: ListNode | None, n: int) -> ListNode | None:
-        count = 0
-        temp = head
+class Solution(object):
+    def removeNthFromEnd(self, head, n):
+        """
+        :type head: Optional[ListNode]
+        :type n: int
+        :rtype: Optional[ListNode]
+        """
+        slow = head
+        fast = head
 
-        while temp:
-            count+=1
-            temp = temp.next
+        for _ in range(n):
+            fast = fast.next
 
+        if fast == None:
+            return head.next
         
-        if count == n:
-            new_node = head.next
-            return new_node
-
-        temp = head
-        count-=n
-        i = 1
-        while i<count:
-            i+=1
-            temp = temp.next
-            
-        
-        temp.next = temp.next.next
+        while fast.next is not None:
+            slow = slow.next
+            fast = fast.next
+        slow.next = slow.next.next
         return head
-
-
-
-
-
-
-
-  
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
