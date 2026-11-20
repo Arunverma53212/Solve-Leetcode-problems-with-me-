@@ -4,7 +4,7 @@ class Solution:
         ans = 0
         for i in range(n):
             ans = ans + mat[i][i] + mat[i][n - i - 1]
-            # ans = ans + mat[i][n - i - 1]
+          
         if n % 2 != 0:
             ans = ans - mat[n // 2][n // 2]
         return ans
